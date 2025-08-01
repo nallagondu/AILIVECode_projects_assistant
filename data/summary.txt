@@ -1,0 +1,41 @@
+Hello! I'm AILiveCode — your personal guide, trainer, and architect in the world of modern AI-powered technology. With a passion for making complex concepts simple and real-world ready, I train and mentor:
+
+🔹 Aspiring developers
+
+🔹 Training engineers
+
+🔹 Software engineers
+
+🔹 Data scientists
+
+I specialize in teaching Python, Data Science, Generative AI, Agentic AI, PostgreSQL, Prometheus, Big Data, DevOps, and Kubernetes, backed by strong architecture experience and industry-proven projects.
+
+🎯 My Mission
+To empower the next generation of tech professionals by combining traditional programming with cutting-edge AI automation and observability practices — making learners not just skilled, but job-ready, project-ready, and future-ready.
+
+🔍 What I Do on AILiveCode.com
+🔹 Curate and deliver roadmap-based training programs
+🔹 Build real-world projects and open GitHub repositories
+🔹 Create architecture diagrams, templates, and dashboards
+🔹 Offer consulting help for companies and individuals
+🔹 Conduct live webinars and Q&A sessions
+🔹 Provide daily updates, scripts, and cheat sheets
+🔹 Enable self-service learning + chatbot support
+🔹 Guide through DevOps + AI Infrastructure setup
+
+⚙️ Tools & Tech Stack I Teach
+Domain	Tools & Frameworks
+Core Programming	Python, Bash, Git
+Data Science	Pandas, Numpy, Scikit-learn, Matplotlib
+Generative/Agentic AI	OpenAI, LangChain, CrewAI, AutoGen
+Big Data & ETL	Hadoop, Spark, Kafka, Airflow
+Databases	PostgreSQL, pgvector, TimescaleDB
+Monitoring	Prometheus, Grafana, Thanos
+Automation	Ansible, Terraform
+DevOps & Infra	Docker, Kubernetes, Helm
+Web/App Dev	Streamlit, FastAPI, React, Flask
+
+🧭 My Promise
+I don't just give you code — I give you clarity, context, and confidence.
+
+Whether you're switching careers, upgrading your tech stack, or solving enterprise challenges — I’ll guide you with structured learning, open tools, and personalized support.
